@@ -23,7 +23,7 @@ export const HeroSection: React.FC = () => {
         {/* IMAGE CONTENT */}
         <div className="flex justify-center items-center" data-aos="fade-up" data-aos-delay="200">
           <img 
-            src="assets/images/heroImage.png" 
+            src="src/assets/images/heroImage.png" 
             alt="Creative professionals working together" 
             className="w-56 sm:w-64 md:w-72 rounded-2xl shadow-2xl relative z-10 transition-transform duration-500 hover:scale-105"
           />

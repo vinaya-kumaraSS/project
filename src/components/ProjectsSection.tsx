@@ -30,17 +30,17 @@ export const ProjectsSection: React.FC = () => {
   const projects = [
     {
       title: "Mobile App Design",
-      image: "assets/images/Projects_Images/Project_1.png",
+      image: "src/assets/images/Projects_Images/Project_1.png",
       category: "UI/UX Design",
     },
     {
       title: "Interior Design Platform",
-      image: "assets/images/Projects_Images/Project_2.png",
+      image: "src/assets/images/Projects_Images/Project_2.png",
       category: "Web Design",
     },
     {
       title: "Photography Portfolio",
-      image: "assets/images/Projects_Images/Project_3.png",
+      image: "src/assets/images/Projects_Images/Project_3.png",
       category: "Web Platform",
     }
   ];

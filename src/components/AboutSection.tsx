@@ -15,7 +15,7 @@ export const AboutSection: React.FC = () => {
       </div>
       <div className="relative group cursor-pointer overflow-hidden rounded-xl">
         <img 
-          src="assets/images/aboutImage.png" 
+          src="src/assets/images/aboutImage.png" 
           alt="Team Meeting" 
           className="rounded-xl w-full max-h-[400px] object-cover transition-transform duration-700 group-hover:scale-105"
         />
